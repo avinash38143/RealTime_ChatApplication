@@ -82,7 +82,7 @@ The application will be available at `http://127.0.0.1:8000/`.
 ![Login Page](screenshots/login_page.png)
 
 ### Profile Page
-![Chat Groups](screenshots/chat_groups.png)
+![Chat Groups](screenshots/profile.png)
 
 ### Real-Time Chat Interface
 ![Chat Interface](screenshots/chat_interface.png)
